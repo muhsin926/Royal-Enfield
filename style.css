@@ -1,0 +1,404 @@
+html{
+    scroll-behavior: smooth;
+}
+.header{
+    background-color: black;
+    height: 80px;
+    width: 100%;
+    position: fixed;
+    z-index: 1;
+}
+.logo-name{
+    float: left;
+    width: 204px;
+    padding-left: 30px;
+    padding-top: 25px;
+}
+body{
+    margin: 0;
+}
+.middle-header{
+    float:left;
+    width: 50%;
+    height: 50px;
+    padding-left: 194px;
+    
+    padding-top: 30px;
+}
+.nav{
+    padding-left: 16px;
+    font-weight: bold;
+    color: #fff;
+    font-family: "guardiansans-medium";
+    text-decoration: none;
+    font-size: 14px
+}
+.loging{
+   
+    float:left;
+    width: 13%;
+    height: 67px;
+    padding-top: 11px;
+    font-weight: bold;
+    color: #fff;
+    font-family: "guardiansans-medium";
+    margin-left: 20px;
+}
+
+.img{
+    height: 16px;
+    width: 25px;
+    float:left;
+    padding-top: 5px;
+}
+.login{
+    width: 44px;
+    float:left;
+    padding-top: 18px;
+}
+.flag{
+    width: 30px;
+    float:left;
+    margin-top: 15px;
+    margin-left: 30px;
+}
+.eng{
+    float: left;
+    padding-top: 17px;
+    
+}
+.main-body{
+    background-color: black;
+    width: 100%;
+    float: left;
+    height: auto;
+}
+.sample{
+    height: 80px;
+    width: 100%;
+}
+.video{
+    width: 85%;
+    height: 560px;
+    padding-left: 200px;
+}
+.vid{
+    height: 530px;
+
+}
+.box1{
+    width: 100%;
+    height: 500px;
+}
+.img1{
+    height: 500px;
+    width: 100%;
+}
+.box2{
+    width: 100%;
+    height: 500px;
+
+}
+.img2{
+    width: 100%;
+    height: 500px;
+}
+.mini-div{
+    width: 25%;
+    height:215px;
+    float: left;
+}
+.mini-img{
+    width:336px;
+    height:215px;
+    transition: .5s;
+}
+.nav2{
+    width: 100%;
+    height: 61px;
+    background-color: #212121;
+    float: left;
+}
+.moto{
+    color: #fff;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+}
+.inner-nav1{
+    width: 142px;
+    margin-left: 30px;
+    margin-top: 15px;
+    float: left;
+}
+.inner-nav2{
+    width: 80%;
+    float: left;
+    height: 61px;
+    margin-left: 20px;
+}
+li{
+    float: left;
+    list-style-type: none;
+    padding-left: 45px;
+    color: #fff;
+    padding-top: 6px;
+}
+.box3{
+    width: 100%;
+    height: 600px;
+
+}
+.img3{
+    width: 100%;
+    height: 600px;
+}
+.ride-text{
+    color: #fff;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+
+}
+.ride-nav{
+    width: 100%;
+    height: 61px;
+    background-color: #212121;
+    float: left;
+}
+.ride-nav1{
+    width: 142px;
+    margin-left: 30px;
+    margin-top: 15px;
+    float: left;
+}
+.ride-nav2{
+    width: 80%;
+    float: left;
+    height: 61px;
+    margin-left: 20px;
+}
+a{
+    text-decoration: none;
+    color: #fff;
+}
+.box4{
+    width: 100%;
+    height: 500px;
+    float: left;
+
+}
+.img4{
+    width: 100%;
+    height: 500px;
+}
+.box5{
+    width: 100%;
+    height: 500px;
+    float: left;
+
+}
+.img5{
+    width: 100%;
+    height: 500px;
+}
+.acc-text{
+    color: #fff;
+    text-decoration: none;
+    font-size: 25px;
+    font-weight: bold;
+}
+.pop{
+    margin-left: 45%;
+    margin-top: 15px;
+}
+.mini-div1{
+    float: left;
+    width: 25%;
+    height: 300px;
+}
+.mini-img1{
+    width: 336px;
+    height: 320px;
+    object-fit: cover;
+    transition: .5s;
+}
+.secondoryfooter{
+    width: 100%;
+    height: 150px;
+    float: left;
+    background-color: #212121;
+}
+.inner-footer{
+    width: 75%;
+    height: 150px;
+    margin-left: 12%;
+}
+.icon-div{
+    width: 25%;
+    height: 150px;
+}
+.icon{
+    width: 100%;
+    height: 100%;
+}
+.primary-footer{
+    width: 100%;
+    height: auto;
+    float: left;
+    background-color: #e5e3e3;
+}
+.right-side{
+    width: 32%;
+    height: 100px;
+    float: left;
+    
+}
+.p{
+    font-family: "montserrat-regular";
+    padding-top: 18px;
+    width: max-content;
+    float: left;
+    font-size: 20px;
+}
+.social-icons{
+    width: 35px;
+    height: 20px;
+    float: left;
+    padding-top: 34px;
+    padding-left: 20px;
+    font-size: 35px;
+}
+hr{
+    width: 97%;
+}
+.left-side{
+    width: 68%;
+    height: 100px;
+    float: left;
+}
+.table{
+    width: 97%;
+    text-align: left;
+    margin: 35px;
+}
+td{
+    height: 30px;
+}
+.bottom{
+    width: 50%;
+    height: 40px;
+    float: left;
+}
+.para{
+    font-size: 11px;
+    padding-left: 35px;
+}
+.atag{
+    width: max-content;
+    padding-left: 14px;
+    color: black;
+    float: left;
+    font-size: 11px;
+}
+.bottom-right{
+    width: 34%;
+    height: 34pxpx;
+    float: left;
+    padding-top: 16px;
+    margin-left: 171px;
+}
+.para2{
+    width: max-content;
+    float: left;
+    margin-left: 12px;
+    margin-top: -1px;
+    font-size: 11px;
+}
+a:hover{
+    color: red;
+}
+.mini-img:hover{
+      transform: scale(1.05);
+}
+.mini-img1:hover{
+    transform: scale(1.05);
+}
+.in1{
+    height: 36px;
+    width: 105px;
+    position: absolute;
+    margin-top: 17%;
+    margin-left: 47%
+
+}
+.btn1{
+    height: 36px;
+    width: 105px;
+    background-color: red;
+    color: #fff;
+    
+    border-style: none;
+    font-size: 20px;
+    font-weight: 108px;
+    font-family: "montserrat-regular";
+
+}
+.afoot{
+    text-align: center;
+    color: #b4b2b2;
+}
+.icon-div{
+    width: 25%;
+    text-align: center;
+    height: 150px;
+    
+    float: left;
+}
+.symbel{
+    padding-top: 20px;
+    font-size: 70px;
+    color: #7c7c7c;
+    font-family: 'Material Symbols Outlined';
+    font-weight: normal;
+    font-style: normal;
+    line-height: 1;
+    letter-spacing: normal;
+    text-transform: none;
+    display: inline-block;
+    white-space: nowrap;
+    word-wrap: normal;
+    direction: ltr; 
+    display: flex;
+    justify-content: center;
+}
+.login1{
+    background-color:  #000000;
+    color:  #ffffff;
+    font-size: 15px;
+    border: none;
+}
+.text{
+    color: #fff;
+    position: absolute;
+    max-width: 280px;
+    min-height: fit-content;
+    margin-top: 30px;
+    padding-top: 72px;
+    padding-left: 26px;
+}
+a{
+    font-family:  sans-serif;
+}
+.fb:hover{
+    color: rgb(0, 76, 255);
+}
+.tw:hover{
+    color: rgb(0, 225, 255);
+}
+.yt:hover{
+    color: rgb(255, 17, 0);
+}
+.insta:hover{
+    color: rgb(255, 0, 123);
+}
